@@ -5,13 +5,11 @@
 ## Description
 
 This tool provides a streamlined login process for PayPal, making it easy for users to access their accounts securely.
-
+make for this repo stars 🌟
 ## Features
 
 - **User-Friendly:** Intuitive interface for a seamless login experience.
 - **Secure:** Utilizes the latest security measures to protect user information.
-- **Multi-Language Support:** Available in both English and [Arabic](link_to_arabic_readme.md).
-
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/ahmedtools/paypal-login`
